@@ -8,7 +8,6 @@ C:\Temp\Appdemoto\GitToApp\GitToApp\bin\Debug\netcoreapp3.1\GitToApp.dll
 C:\Temp\Appdemoto\GitToApp\GitToApp\bin\Debug\netcoreapp3.1\GitToApp.pdb
 C:\Temp\Appdemoto\GitToApp\GitToApp\bin\Debug\netcoreapp3.1\GitToApp.Views.dll
 C:\Temp\Appdemoto\GitToApp\GitToApp\bin\Debug\netcoreapp3.1\GitToApp.Views.pdb
-C:\Temp\Appdemoto\GitToApp\GitToApp\obj\Debug\netcoreapp3.1\GitToApp.csproj.AssemblyReference.cache
 C:\Temp\Appdemoto\GitToApp\GitToApp\obj\Debug\netcoreapp3.1\GitToApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Temp\Appdemoto\GitToApp\GitToApp\obj\Debug\netcoreapp3.1\GitToApp.AssemblyInfoInputs.cache
 C:\Temp\Appdemoto\GitToApp\GitToApp\obj\Debug\netcoreapp3.1\GitToApp.AssemblyInfo.cs
