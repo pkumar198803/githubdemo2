@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\Appdemofrom\\githubdemo2\\GitToApp\\GitToApp\\GitToApp.csproj": {}
+    "C:\\Temp\\Appdemoto\\GitToApp\\GitToApp\\GitToApp.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\Appdemofrom\\githubdemo2\\GitToApp\\GitToApp\\GitToApp.csproj": {
+    "C:\\Temp\\Appdemoto\\GitToApp\\GitToApp\\GitToApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\Appdemofrom\\githubdemo2\\GitToApp\\GitToApp\\GitToApp.csproj",
+        "projectUniqueName": "C:\\Temp\\Appdemoto\\GitToApp\\GitToApp\\GitToApp.csproj",
         "projectName": "GitToApp",
-        "projectPath": "C:\\Temp\\Appdemofrom\\githubdemo2\\GitToApp\\GitToApp\\GitToApp.csproj",
+        "projectPath": "C:\\Temp\\Appdemoto\\GitToApp\\GitToApp\\GitToApp.csproj",
         "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\Appdemofrom\\githubdemo2\\GitToApp\\GitToApp\\obj\\",
+        "outputPath": "C:\\Temp\\Appdemoto\\GitToApp\\GitToApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

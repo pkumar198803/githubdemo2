@@ -73,3 +73,4 @@ C:\Temp\Appdemofrom\githubdemo2\GitToApp\GitToApp\obj\Debug\netcoreapp3.1\GitToA
 C:\Temp\Appdemofrom\githubdemo2\GitToApp\GitToApp\obj\Debug\netcoreapp3.1\GitToApp.pdb
 C:\Temp\Appdemofrom\githubdemo2\GitToApp\GitToApp\obj\Debug\netcoreapp3.1\GitToApp.genruntimeconfig.cache
 C:\Temp\Appdemofrom\githubdemo2\GitToApp\GitToApp\obj\Debug\netcoreapp3.1\GitToApp.csproj.CopyComplete
+C:\Temp\Appdemoto\GitToApp\GitToApp\obj\Debug\netcoreapp3.1\GitToApp.csproj.AssemblyReference.cache
